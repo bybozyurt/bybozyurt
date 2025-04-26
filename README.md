@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">I' am a Jr. Android Developer</h3>
+<h3 align="center">Android Developer</h3>
 
 - 📫 **bozyurtahmet@gmail.com**
 
